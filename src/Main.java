@@ -16,11 +16,10 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**
- * The main driver file for my agent that solves RPM Intelligience test using images as input. You may edit this file to change which
- * problems your Agent addresses while debugging and designing, but you should
- * not depend on changes to this file for final execution of your project. Your
+ * The main driver file for my agent that solves RPM Intelligience test using images as input. 
+ * You may edit this file to change which problems your Agent addresses while debugging and designing, 
+ * but you should not depend on changes to this file for final execution of your project. Your
  * project will be graded using our own version of this file.
- * 
  */
 public class Main {
     /**
