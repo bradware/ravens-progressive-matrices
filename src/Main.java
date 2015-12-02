@@ -16,7 +16,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**
- * The main driver file for Project4. You may edit this file to change which
+ * The main driver file for my agent that solves RPM Intelligience test using images as input. You may edit this file to change which
  * problems your Agent addresses while debugging and designing, but you should
  * not depend on changes to this file for final execution of your project. Your
  * project will be graded using our own version of this file.
@@ -24,7 +24,7 @@ import java.util.ArrayList;
  */
 public class Main {
     /**
-     * The main method of Project4.
+     * The main method of my agent.
      */
     public static void main(String[] args) {
         // Loading problems from files
