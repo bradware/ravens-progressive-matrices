@@ -10,8 +10,6 @@
  * 
  */
 
-package project4;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -24,7 +22,7 @@ import java.util.ArrayList;
  * project will be graded using our own version of this file.
  * 
  */
-public class Project4 {
+public class Main {
     /**
      * The main method of Project4.
      */
